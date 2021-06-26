@@ -45,3 +45,35 @@ nav li:hover {
 nav ul {
   display: flex;
 }
+
+
+.ff {
+  display: flex;
+  justify-content: space-evenly;
+}
+.artcl {
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+h1:hover {
+  color: blue;
+}
+p {
+  color: black;
+}
+.ph {
+  color: black;
+}
+.bar {
+  display: flex;
+  justify-content: space-between;
+}
+.tm {
+  padding-left: 620px;
+  background-color: gray;
+}
