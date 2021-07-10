@@ -73,6 +73,7 @@ p {
   display: flex;
   justify-content: space-between;
 }
+
 .tm {
   padding-left: 620px;
   background-color: gray;
