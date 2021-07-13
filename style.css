@@ -15,8 +15,12 @@ boby{
 } */
 
 .cover{
-  width: 100%;
-  margin: 0 auto;
+
+  display: flex;
+  justify-content:flex-start;
+  
+  /* margin: 0 auto; */
+
  
 }
 
@@ -71,6 +75,14 @@ h1:hover {
 }
 p {
   color: rgb(8, 4, 4);
+}
+
+.section{
+  background-color: azure;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around ;
+  
 }
 /* .ph {
   color: black;
