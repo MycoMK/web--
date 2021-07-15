@@ -15,13 +15,9 @@ boby{
 } */
 
 .cover{
-
   display: flex;
   justify-content:flex-start;
-  
   /* margin: 0 auto; */
-
- 
 }
 
 .Header {
