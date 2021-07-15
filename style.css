@@ -13,20 +13,72 @@ boby{
 /* .wrapper {
   background-color: black;
 } */
-
+.main{
+  display: flex;
+  flex-wrap: wrap;
+}
 .cover{
+  background-size: cover;
+  width: 1650px;
+ height: 470px;
   display: flex;
   justify-content:flex-start;
+  
   /* margin: 0 auto; */
 }
 
 .Header {
-  background-color: black;
+  background-color: rgb(5, 0, 0);
   max-width: 100%;
   margin: 0 auto;
 }
 
 /* menu basee styles */
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+.card{
+  color: rgb(250, 4, 4);
+  background-color: chartreuse;
+  width: 270px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 15px 15px 0 15px;
+}
+ /* image size for 2 */
+.ab{
+  width: 270px;
+  height: 400px;
+  border-radius: 15px 15px 0 15px  ;
+}
+
+.card-image{
+
+  height: 180px;
+  margin-bottom: 15px;
+  background-size: cover;
+  border-radius: 15px 15px 0  15px;
+  
+}
+
+.card p{
+  padding: 10px;
+}
+ .card a{
+   background-color: black;
+   color: white;
+   /* padding: 15px  20px; */
+   display: block;
+   text-align: center;
+   text-decoration: none;
+ }
+
+ .container:hover{
+  background-color: rgb(90, 92, 93);
+ }
 
 nav {
   background: black;
@@ -58,12 +110,12 @@ nav li:hover {
   justify-content: space-evenly;
 }
 .artcl {
-  color: rgb(10, 3, 3);
+  color: rgb(250, 246, 246);
   /* padding: 20px; */
 }
 
 h1 {
-  color: rgb(8, 5, 5);
+  color: rgb(250, 248, 248);
 }
 
 h1:hover {
