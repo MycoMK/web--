@@ -76,9 +76,9 @@ boby{
    text-decoration: none;
  }
 
- .container:hover{
+ /* .container:hover{
   background-color: rgb(90, 92, 93);
- }
+ } */
 
 nav {
   background: black;
@@ -110,7 +110,7 @@ nav li:hover {
   justify-content: space-evenly;
 }
 .artcl {
-  color: rgb(250, 246, 246);
+  color: rgb(12, 10, 10);
   /* padding: 20px; */
 }
 
