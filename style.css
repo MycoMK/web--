@@ -7,33 +7,22 @@
 
 boby{
   background-color: black;
-  
+  min-width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     
 }
-/* .wrapper {
-  background-color: black;
-} */
+
 .main{
   display: flex;
   flex-wrap: wrap;
 }
 .cover{
-  margin:0 auto;
-  width: 100rem;
+  min-width: 100%;
   height:500px ;
   
 }
-/* .cover1{
-  max-width: 100rem;
-  dis
-} */
 
-
-
-  
-  
   /* margin: 0 auto; */
 
 
@@ -115,7 +104,7 @@ nav li {
 }
 
 nav li:hover {
-  color: blue;
+  color: rgb(245, 245, 250);
   background-color: gray;
 }
 
@@ -143,6 +132,21 @@ h1:hover {
 p {
   color: rgb(8, 4, 4);
 }
+li a{
+  color: aliceblue;
+  text-decoration: none;
+}
+/* .active, a {
+
+}
+
+ */
+ .fa{
+   background-color: aliceblue;
+ }
+
+
+
 
 .section{
   background-color: rgb(7, 7, 7);
@@ -152,7 +156,6 @@ p {
   
 }
 .section img{
- 
   height: 180px;
 }
 /* .ph {
