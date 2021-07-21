@@ -49,7 +49,7 @@ boby{
   background-color: chartreuse;
   width: 270px;
   height: 400px;
-  margin: 10px;
+  margin: 10px; 
   border-radius: 15px 15px 0 15px;
 }
  /* image size for 2 */
@@ -83,6 +83,47 @@ boby{
  /* .container:hover{
   background-color: rgb(90, 92, 93);
  } */
+ .section{
+  color: rgb(250, 4, 4);
+  background-color: chartreuse;
+  width: 270px;
+  height: 400px;
+  margin: 10px; 
+  border-radius: 15px 15px 0 15px;
+}
+.section-image{
+
+  height: 180px;
+  margin-bottom: 15px;
+  background-size: cover;
+  border-radius: 15px 15px 0  15px;
+  
+}
+.section p{
+  padding: 10px;
+}
+ .section a{
+   background-color: black;
+   color: white;
+   padding: 15px  20px;
+   display: block;
+   text-align: center;
+   text-decoration: none;
+ }
+
+
+.cd{
+  width: 270px;
+  height: 400px;
+  border-radius: 15px 15px 0 15px  ;
+}
+.eb{
+ color: aliceblue;
+}
+
+
+
+
 
 nav {
   background: black;
@@ -119,7 +160,7 @@ nav li:hover {
   /* padding: 20px; */
 }
 .bbk{
-  color: rgb(2, 2, 2);
+  color: rgb(252, 249, 249);
 }
 
 h1 {
@@ -153,7 +194,7 @@ li a{
 .section img{
   height: 180px;
 } 
-/* .ph {
+.ph {
   color: black;
 }
 .bar {
