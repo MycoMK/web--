@@ -18,9 +18,11 @@ boby{
   flex-wrap: wrap;
 }
 .cover{
-  width: 100px;
-  min-width: 100%;
-  height:500px ;
+  padding-left: 25px;
+ margin-left: 10px;
+  width: 50px;
+  min-width: 95%;
+  height:600px ;
   
   
 }
@@ -35,6 +37,8 @@ boby{
     background-position: center; */
    background-color: rgb(241, 199, 247);
   max-width: 100%; 
+   background-color: white;
+   max-width: 100%; 
    margin: 0 auto;
 }
 /* bg{
@@ -59,7 +63,7 @@ boby{
   width: 270px;
   height: 400px;
   margin: 10px; 
-  border-radius: 15px 15px 0 15px;
+  border-radius: 15px 15px 15px 15px;
 }
  /* image size for 2 */
 .ab{
@@ -75,7 +79,7 @@ boby{
   height: 180px;
   margin-bottom: 15px;
   background-size: cover;
-  border-radius: 15px 15px 0  15px;
+  border-radius: 15px 15px 15px  15px;
   
 }
 
