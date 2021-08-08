@@ -58,15 +58,15 @@ boby{
 .card{
   color: rgb(250, 4, 4);
   background-color: rgb(4, 247, 36);
-  width: 270px;
+  width: 300px;
   height: 400px;
   margin: 10px; 
   border-radius: 15px 15px 15px 15px;
 }
  /* image size for 2 */
 .ab{
-  width: 270px;
-  /* height: 400px; */
+  width: 300px;
+  height: 200px;
   border-radius: 15px 15px 15px 15px;
 
 
@@ -221,4 +221,9 @@ li a{
 
 p{
   color:white;
+}
+
+src{
+  width: 80px;
+  height: 80;
 }
