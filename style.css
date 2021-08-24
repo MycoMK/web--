@@ -25,6 +25,7 @@ boby{
   height:700px ;
   
   
+  
 }
 
   /* margin: 0 auto; */
@@ -35,7 +36,7 @@ boby{
     /* background-image: url(https://images-na.ssl-images-amazon.com/images/I/81gcNrUi7KL.jpg);
     background-repeat: no-repeat;
     background-position: center; */
-   background-color: rgb(3, 3, 3);
+   background-color: rgb(26, 129, 226);
    max-width: 100%; 
    margin: 0 auto;
 }
@@ -62,6 +63,7 @@ boby{
   height: 400px;
   margin: 10px; 
   border-radius: 15px 15px 15px 15px;
+  object-fit: cover;
 }
  /* image size for 2 */
 .ab{
