@@ -142,7 +142,7 @@ nav li:hover {
 
 
 .ff {
-  background-color: black;
+  background-color: rgb(5, 5, 5);
   display: flex;
   justify-content: space-evenly;
 }
@@ -202,7 +202,7 @@ li a{
 }
 
 p{
-  color:rgb(2, 0, 0);
+  color:rgb(3, 0, 0);
 }
 
 /* p:hover{
@@ -214,3 +214,14 @@ src{
   width: 80px;
   height: 80;
 }
+
+.md{
+  margin: 25px;
+  max-width: 530px;
+  
+}
+.pc{
+  margin: 25px;
+  width: 600px;
+  
+} 
