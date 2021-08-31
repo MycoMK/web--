@@ -107,7 +107,10 @@ boby{
   
   width: 270px;
   height: 180%;
-  border-radius: 15px 15px 0 15px  ;
+  border-radius: 15px 15px 15px 15px  ;
+}
+.cd:hover{
+  zoom: 8.5;
 }
 .eb{
  color: aliceblue;
