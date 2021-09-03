@@ -93,14 +93,14 @@ boby{
  }
 
  
- .section a{
+ /* .section a{
    background-color: rgb(250, 245, 245);
    color: rgb(248, 244, 244);
    padding: 15px  20px;
    display: block;
    text-align: center;
    text-decoration: none;
- }
+ } */
 
 
 .cd{
@@ -155,12 +155,13 @@ h1 {
   color: rgb(252, 250, 250);
 }
 
-h1:hover {
-  color: blue;
-}
-
 h2:hover{
   zoom: 1.3;
+}
+
+link:hover{
+  zoom: 1.3;
+  color: rgb(240, 159, 128);
 }
 li a{
   color: aliceblue;
@@ -205,9 +206,6 @@ p{
   color:rgb(3, 0, 0);
 }
 
-/* p:hover{
-  zoom: 1.1;
-} */
 
 
 src{
