@@ -142,9 +142,10 @@ nav li:hover {
 
 
 .ff {
+  
   background-color: rgb(5, 5, 5);
-  display: flex;
-  justify-content: space-evenly;
+  /* display: flex;
+  justify-content: space-evenly; */
 }
 .artcl {
   color: rgb(255, 253, 253);
