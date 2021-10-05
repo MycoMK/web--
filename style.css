@@ -93,14 +93,14 @@ boby{
  }
 
  
- /* .section a{
+ .section a{
    background-color: rgb(250, 245, 245);
    color: rgb(248, 244, 244);
    padding: 15px  20px;
    display: block;
    text-align: center;
    text-decoration: none;
- } */
+ }
 
 
 .cd{
@@ -142,10 +142,9 @@ nav li:hover {
 
 
 .ff {
-  
   background-color: rgb(5, 5, 5);
-  /* display: flex;
-  justify-content: space-evenly; */
+  display: flex;
+  justify-content: space-evenly;
 }
 .artcl {
   color: rgb(255, 253, 253);
@@ -160,20 +159,13 @@ h1 {
   text-decoration: none;
 }
 
-<<<<<<< HEAD
-
 h1:hover {
   color: blue;
   
-=======
-h2:hover{
-  zoom: 1.3;
->>>>>>> b4725e0a8eede8623303615005796bb021a99f86
 }
 
-.link:hover{
+h2:hover{
   zoom: 1.3;
-  color: rgb(240, 159, 128);
 }
 li a{
   color: aliceblue;
@@ -218,6 +210,9 @@ p{
   color:rgb(3, 0, 0);
 }
 
+/* p:hover{
+  zoom: 1.1;
+} */
 
 
 src{
