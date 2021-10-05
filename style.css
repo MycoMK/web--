@@ -34,7 +34,7 @@ boby{
 .Header {
  
     
-   background-color: rgb(26, 129, 226);
+   background-color: rgb(253, 253, 253);
    max-width: 100%; 
    margin: 0 auto;
 }
@@ -48,7 +48,7 @@ boby{
   
 }
 .card{
-  color: blue;
+  color: rgb(252, 252, 253);
   background-color: rgb(4, 247, 36);
   width: 300px;
   height: 425px;
@@ -152,11 +152,16 @@ nav li:hover {
 }
 
 h1 {
-  color: rgb(252, 250, 250);
+  
+  color: rgb(2, 0, 0);
+  display: block;
+  text-align: center;
+  text-decoration: none;
 }
 
 h1:hover {
   color: blue;
+  
 }
 
 h2:hover{
@@ -174,7 +179,7 @@ li a{
 
  /* image size for 2 */
 .section{
-  background-color: rgb(26, 129, 226);
+  background-color: rgb(251, 252, 253);
   display: flex;
   flex-wrap: nowrap;
   justify-content:space-around ;
