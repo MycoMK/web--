@@ -34,7 +34,7 @@ boby{
 .Header {
  
     
-   background-color: white;
+   background-color: rgb(252, 250, 250);
    max-width: 100%; 
    margin: 0 auto;
 }
@@ -49,7 +49,7 @@ boby{
 }
 .card{
   color: white;
-  background-color: rgb(4, 247, 36);
+  background-color: rgb(0, 8, 1);
   width: 300px;
   height: 425px;
   margin: 10px; 
@@ -159,9 +159,9 @@ h1 {
   text-align: center;
   text-decoration: none;
 }
-h1:hover{
+/* h1:hover{
 color: blue;
-}
+} */
 
 h2:hover{
   zoom: 1.3;
@@ -183,16 +183,14 @@ li a{
 
  /* image size for 2 */
 .section{
-  background-color: white;
+
+  background-color: rgb(248, 248, 250);
   display: flex;
   flex-wrap: nowrap;
   justify-content:space-around ;
   
 }
-/* .section img{
-  width: 20% ;
-  height: 80%;
-}  */
+
 .ph {
   color: black;
 }
@@ -211,7 +209,7 @@ li a{
 }
 
 p{
-  color:rgb(3, 0, 0);
+  color:rgb(250, 250, 250);
 }
 
 
