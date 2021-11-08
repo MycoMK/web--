@@ -18,16 +18,24 @@ boby{
   flex-wrap: wrap;
 }
 .cover{
+  
   padding-left: 25px;
  margin-left: 10px;
   width: 50px;
   min-width: 95%;
   height:700px ;
+ 
+   
+}
+.carousel-container{
   
   
-  
+  /* overflow: hidden; */
 }
 
+.carousel-slide{
+  display: flex;
+}
   /* margin: 0 auto; */
 
 
