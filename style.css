@@ -36,6 +36,10 @@ boby{
 .carousel-slide{
   display: flex;
 }
+
+#prevBtn{
+  color: brown;
+}
   /* margin: 0 auto; */
 
 
