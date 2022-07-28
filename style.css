@@ -196,10 +196,6 @@ h1 {
 color: rgb(152, 152, 249);
 } 
 
-h2{
-  display: flex;
-  text-align: center;
-}
 
 /* h2:hover{
   zoom: 1.3;
